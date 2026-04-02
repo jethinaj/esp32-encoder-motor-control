@@ -93,5 +93,5 @@ The system is designed to control a DC geared motor with smooth speed ramping, b
 
 ## 📷 Preview
 
-![Motor Setup](image.jpg)
+![Motor Setup](image.jpeg)
 
