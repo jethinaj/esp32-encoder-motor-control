@@ -61,11 +61,6 @@ The system is designed to control a DC geared motor with smooth speed ramping, b
 - Speed variation is achieved using software-based PWM.
 - Encoder signals are captured using interrupts to track rotation pulses.
 - TFT display is used to visualize system status and future real-time data.
-
----
-
-##  Future Improvements
-
 - Real-time RPM calculation using encoder feedback
 - Closed-loop speed control (PID)
 - Hardware PWM (LEDC) for smoother speed control
@@ -91,7 +86,9 @@ The system is designed to control a DC geared motor with smooth speed ramping, b
 
 ---
 
-## 📷 Preview
+##  Demo Video
 
-![Motor Setup](image.jpeg)
+Click the image below to watch the full demo 👇
+
+[![Motor Demo](image.jpeg)](https://youtu.be/qshClCDViwk)
 
