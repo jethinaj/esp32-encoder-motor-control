@@ -93,10 +93,5 @@ The system is designed to control a DC geared motor with smooth speed ramping, b
 
 ## 📷 Preview
 
-(Add your project images or videos here)
+![Motor Setup](image.jpg)
 
----
-
-##  License
-
-This project is open-source and available for learning and development purposes.
